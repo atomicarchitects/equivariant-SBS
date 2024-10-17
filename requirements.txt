@@ -1,0 +1,8 @@
+torch
+torch_geometric
+torch_cluster
+torch_scatter
+e3nn
+pymatgen
+mp_api
+matscipy
